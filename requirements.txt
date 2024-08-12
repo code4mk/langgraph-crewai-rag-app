@@ -1,0 +1,16 @@
+langchain
+langchain_openai
+langchain_pinecone
+pinecone-client
+python-dotenv
+langchain-community
+
+gradio
+lark
+langchainhub
+
+langgraph
+chainlit
+termcolor
+crewai
+crewai-tools
